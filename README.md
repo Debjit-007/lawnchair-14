@@ -6,7 +6,8 @@
 [![Telegram](https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flccommunity)](https://t.me/lccommunity)
 [![Discord](https://img.shields.io/discord/803299970169700402?label=server&logo=discord)](https://discord.gg/3x8qNWxgGZ)
 
-<picture>
+![image alt](![Uploading 1000037211.png…]()
+)
     <!-- Avoid image being clickable with slight workaround -->
     <!-- ❤️ Credit to Raine for the original mockup on the Lawnchair Discord -->
     <!-- ❤️ Credit to Lawrence Kayku for the current mockup on Unsplash 
